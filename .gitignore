@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /node_modules
 /public/hot
 /public/storage
@@ -10,3 +11,11 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
+=======
+composer.phar
+/vendor/
+
+# Commit your application's lock file https://getcomposer.org/doc/01-basic-usage.md#commit-your-composer-lock-file-to-version-control
+# You may choose to ignore a library lock file http://getcomposer.org/doc/02-libraries.md#lock-file
+# composer.lock
+>>>>>>> 1120c4c202ae90dd63c563af26701482c7833123
