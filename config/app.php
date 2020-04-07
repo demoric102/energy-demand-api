@@ -52,9 +52,9 @@ return [
     |
     */
 
-    'url' => 'https://still-scrubland-23759.herokuapp.com',
+    'url' => 'http://localhost/',
 
-    'asset_url' => 'https://still-scrubland-23759.herokuapp.com',
+    'asset_url' => 'http://localhost/',
 
     /*
     |--------------------------------------------------------------------------
