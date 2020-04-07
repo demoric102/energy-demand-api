@@ -52,9 +52,9 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'https://still-scrubland-23759.herokuapp.com'),
+    'url' => 'https://still-scrubland-23759.herokuapp.com',
 
-    'asset_url' => env('ASSET_URL', null),
+    'asset_url' => 'https://still-scrubland-23759.herokuapp.com',
 
     /*
     |--------------------------------------------------------------------------
