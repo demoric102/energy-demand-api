@@ -13,14 +13,15 @@ This API returns JSON arrays of Energy Demand Audit for Rural areas in Nigeria. 
 ## Endpoint URL: 
 `http://energy-demand-api.herokuapp.com/api/communities/your@email.address`
 
-Payload: **Headers**
-            ```
-            Accept: 'json/application'
-            Authorization: 'Bearer .$Token'
-            ```
-         **Body**
-            ```
-            Form Data
-                tableName: 'adm1'
-                value: 'kano'
-            ```
+**Payload** 
+- Headers
+    ```
+    Accept: `json/application`
+    Authorization: `Bearer .$Token`
+    ```
+- Body
+    ```
+    Form Data
+        tableName: `adm1`
+        value: `kano`
+    ```
