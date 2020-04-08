@@ -14,3 +14,5 @@ use Illuminate\Http\Request;
 */
 
 Route::post('communities/{email}', 'APIController@index')->middleware('auth:api');
+
+Route::post('test-endpoint/{email}', 'APIController@testEndpoint')->middleware('auth:api');

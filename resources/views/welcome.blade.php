@@ -85,7 +85,7 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://github.com/demoric102">GitHub</a>
+                    <a href="https://github.com/demoric102/energy-demand-api">GitHub</a>
                     <a href="#">Documentation</a>
                 </div>
             </div>

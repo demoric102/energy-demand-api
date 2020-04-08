@@ -26,4 +26,10 @@ class APIController extends Controller
         //print $request->email;
         return \DB::table('communities')->where($request->tableName, $request->value)->get();
     }
+
+    public function testEndpoint(Request $request, $email)
+    {
+        print 'Welcome '.$request->email.'. <br /> You have succesfully tested the endpoint and you can now make requests to the /communities/{email} endpoint.';
+        die();
+    }
 }
