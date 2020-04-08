@@ -1,5 +1,5 @@
 # Nigerian Energy Demand
-This API returns JSON arrays of Energy Demand Audit for Rural areas in Nigeria. This locations are 15km away from the National Electricity Gird in Nigeria. They are mostly populations between 4,000 and 10,000 inhabitants in Rural Nigeria. 
+This API returns JSON arrays of Energy Demand Audit for Rural areas in Nigeria. This locations are 15km away from the National Electricity Gird in Nigeria. They are mostly populations between 4,000 and 10,000 inhabitants. 
 
 ## Front Page URL: 
 `http://energy-demand-api.herokuapp.com`
@@ -8,7 +8,7 @@ This API returns JSON arrays of Energy Demand Audit for Rural areas in Nigeria. 
 - Register on `http://energy-demand-api.herokuapp.com/register`
 - Click on `Create New Token`
 - Copy generated Token
-- Use the generated Token in the Headers as shown bellow 
+- Use the generated Token in the request Headers during the API call to the endpoint. 
 
 ## Endpoint URL: 
 `http://energy-demand-api.herokuapp.com/api/communities/your@email.address`
