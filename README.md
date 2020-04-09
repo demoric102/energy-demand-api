@@ -29,8 +29,6 @@ This API returns JSON arrays of Energy Demand Audit for Rural areas in Nigeria. 
 
 ![Guide](resources/images/documentation1.png)
 
-![Guide](resources/images/documentation2.png)
-
 ![Guide](resources/images/documentation3.png)
 
 ![Guide](resources/images/documentation4.png)
