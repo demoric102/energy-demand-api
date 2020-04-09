@@ -17,7 +17,7 @@ This API returns JSON arrays of Energy Demand Audit for Rural areas in Nigeria. 
 - Headers
     ```
     Accept: 'json/application'
-    Authorization: 'Bearer .$Token'
+    Authorization: 'Bearer .{Token}'
     ```
  - Body
     ```

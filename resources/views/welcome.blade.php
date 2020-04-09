@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    RE365 Energy Demand API
+                    Nigeria Energy Demand Audit
                 </div>
 
                 <div class="links">
