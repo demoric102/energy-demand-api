@@ -35,13 +35,16 @@ This API returns JSON arrays of Energy Demand Audit for Rural areas in Nigeria. 
 **Pictorial Steps:** 
 
 ![Guide](resources/images/documentation1.png)
-
+1. Create Account
 ![Guide](resources/images/documentation3.png)
-
+2. Click create Token
 ![Guide](resources/images/documentation4.png)
-
+3. Create Token
 ![Guide](resources/images/documentation5.png)
-
+4. Copy Token
 ![Guide](resources/images/documentation6.png)
-
+5. Paste Token
 ![Guide](resources/images/documentation7.png)
+6. Enter Payload Correctly
+![Guide](resources/images/documentation8.png)
+7. Distance Matrix Sample Payload
