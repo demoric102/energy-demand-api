@@ -42,7 +42,8 @@ class APIController extends Controller
             }
             $origin = $request->origin;
             $destinations = $request->destinations;
-            $key = "AIzaSyCN0WekwHToiRABp-snAMFl8ff9hNSQbHE";
+            $user = User::where('email', 'ademola@adewumi.com')->first();
+            $key = $user->name;
             $payload = "https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&origins=$origin&destinations=$destinations&key=$key";
             $curl = curl_init();
             curl_setopt_array($curl, array(
