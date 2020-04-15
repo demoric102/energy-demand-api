@@ -25,6 +25,13 @@ This API returns JSON arrays of Energy Demand Audit for Rural areas in Nigeria. 
         tableName: 'adm1'
         value: 'kano'
     ```
+    Distance Matrix
+     ```
+    Form Data
+        tableName: 'controid'
+        origin: '40.6655101,-73.89188969999998'
+        destination: '40.6655101,-73.89188969999998'
+    ```
 **Pictorial Steps:** 
 
 ![Guide](resources/images/documentation1.png)
